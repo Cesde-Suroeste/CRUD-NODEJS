@@ -22,6 +22,6 @@ y ya tendras la pagina creada
 
 Se Reservan Todos Los Derechos Sobre Los Archivos de Este Repositorio
 
-© 2022 SantiArriba o Santiago Suarez derechos de autor 2022.
+© 2022 Jorge Grisales derechos de autor 2022.
 
 
